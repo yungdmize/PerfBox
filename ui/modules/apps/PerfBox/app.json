@@ -1,0 +1,22 @@
+{
+  "domElement": "<perf-box></perf-box>",
+  "name": "ui.apps.perfBox.name",
+  "types": [
+    "ui.apps.categories.vehicle_info"
+  ],
+  "description": "ui.apps.perfBox.description",
+  "css": {
+    "left": "20px",
+    "top": "120px",
+    "width": "380px",
+    "height": "560px",
+    "min-width": "300px",
+    "min-height": "300px"
+  },
+  "author": "DJ WESSTAG, MJKR",
+  "version": "1.1",
+  "directive": "perfBox",
+  "category": "Telemetry",
+  "isAuxiliary": false,
+  "interactive": "yes"
+}
