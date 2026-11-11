@@ -58,6 +58,10 @@ The texts follow the game's language: Russian when the game is in Russian, Engli
 
 Check of the algorithm: at a constant 4 m/s² acceleration and 9 m/s² braking it matches the analytic values within 0.1 ms (0-100, 0-200, 1/4 and 1/2 mile, trap speed, 100-200, 100-0 and rollout).
 
+## License
+
+[MIT](LICENSE).
+
 ---
 
 ## Русский
@@ -74,3 +78,5 @@ Check of the algorithm: at a constant 4 m/s² acceleration and 9 m/s² braking i
 **Установка через BeamNG.Earth:** Настройки → Add-ons → **Add from GitHub** → `yungdmize/PerfBox` → Install. Или вручную: `perfbox.zip` из [последнего релиза](../../releases/latest) в папку `mods`.
 
 Язык выбирается по языку игры: русский, если игра на русском, иначе английский.
+
+Лицензия: [MIT](LICENSE).
